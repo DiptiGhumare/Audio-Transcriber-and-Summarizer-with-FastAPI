@@ -44,13 +44,21 @@ Timestamp Service: Get word-level timestamps for the transcription, detailing wh
 
 ## Requirements
 Python 3.8 or later
+
 FastAPI
+
 Uvicorn
+
 Pydantic
+
 OpenAI Whisper
+
 Transformers
+
 Torch
+
 SentencePiece
+
 Pydub
 
 ## Installations
@@ -93,6 +101,7 @@ Method: GET
 Response: A welcome message.
 
 Transcription Endpoint:
+
 URL: /transcribe
 
 Method: POST
