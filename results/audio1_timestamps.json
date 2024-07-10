@@ -1,0 +1,262 @@
+[
+    {
+        "word": "One",
+        "start_time": 0,
+        "end_time": 3
+    },
+    {
+        "word": "powerful",
+        "start_time": 4,
+        "end_time": 12
+    },
+    {
+        "word": "application",
+        "start_time": 13,
+        "end_time": 24
+    },
+    {
+        "word": "of",
+        "start_time": 25,
+        "end_time": 27
+    },
+    {
+        "word": "audio",
+        "start_time": 28,
+        "end_time": 33
+    },
+    {
+        "word": "transcription",
+        "start_time": 34,
+        "end_time": 47
+    },
+    {
+        "word": "is",
+        "start_time": 48,
+        "end_time": 50
+    },
+    {
+        "word": "sentiment",
+        "start_time": 51,
+        "end_time": 60
+    },
+    {
+        "word": "analysis",
+        "start_time": 61,
+        "end_time": 69
+    },
+    {
+        "word": "By",
+        "start_time": 70,
+        "end_time": 72
+    },
+    {
+        "word": "transcribing",
+        "start_time": 73,
+        "end_time": 85
+    },
+    {
+        "word": "customer",
+        "start_time": 86,
+        "end_time": 94
+    },
+    {
+        "word": "service",
+        "start_time": 95,
+        "end_time": 102
+    },
+    {
+        "word": "calls",
+        "start_time": 103,
+        "end_time": 108
+    },
+    {
+        "word": "social",
+        "start_time": 109,
+        "end_time": 115
+    },
+    {
+        "word": "media",
+        "start_time": 116,
+        "end_time": 121
+    },
+    {
+        "word": "videos",
+        "start_time": 122,
+        "end_time": 128
+    },
+    {
+        "word": "or",
+        "start_time": 129,
+        "end_time": 131
+    },
+    {
+        "word": "any",
+        "start_time": 132,
+        "end_time": 135
+    },
+    {
+        "word": "other",
+        "start_time": 136,
+        "end_time": 141
+    },
+    {
+        "word": "spoken",
+        "start_time": 142,
+        "end_time": 148
+    },
+    {
+        "word": "content",
+        "start_time": 149,
+        "end_time": 156
+    },
+    {
+        "word": "businesses",
+        "start_time": 157,
+        "end_time": 167
+    },
+    {
+        "word": "can",
+        "start_time": 168,
+        "end_time": 171
+    },
+    {
+        "word": "analyse",
+        "start_time": 172,
+        "end_time": 179
+    },
+    {
+        "word": "the",
+        "start_time": 180,
+        "end_time": 183
+    },
+    {
+        "word": "sentiments",
+        "start_time": 184,
+        "end_time": 194
+    },
+    {
+        "word": "expressed",
+        "start_time": 195,
+        "end_time": 204
+    },
+    {
+        "word": "in",
+        "start_time": 205,
+        "end_time": 207
+    },
+    {
+        "word": "the",
+        "start_time": 208,
+        "end_time": 211
+    },
+    {
+        "word": "audio",
+        "start_time": 212,
+        "end_time": 217
+    },
+    {
+        "word": "This",
+        "start_time": 218,
+        "end_time": 222
+    },
+    {
+        "word": "analysis",
+        "start_time": 223,
+        "end_time": 231
+    },
+    {
+        "word": "helps",
+        "start_time": 232,
+        "end_time": 237
+    },
+    {
+        "word": "companies",
+        "start_time": 238,
+        "end_time": 247
+    },
+    {
+        "word": "understand",
+        "start_time": 248,
+        "end_time": 258
+    },
+    {
+        "word": "customer",
+        "start_time": 259,
+        "end_time": 267
+    },
+    {
+        "word": "emotions",
+        "start_time": 268,
+        "end_time": 276
+    },
+    {
+        "word": "identify",
+        "start_time": 277,
+        "end_time": 285
+    },
+    {
+        "word": "trends",
+        "start_time": 286,
+        "end_time": 292
+    },
+    {
+        "word": "improve",
+        "start_time": 293,
+        "end_time": 300
+    },
+    {
+        "word": "customer",
+        "start_time": 301,
+        "end_time": 309
+    },
+    {
+        "word": "service",
+        "start_time": 310,
+        "end_time": 317
+    },
+    {
+        "word": "and",
+        "start_time": 318,
+        "end_time": 321
+    },
+    {
+        "word": "make",
+        "start_time": 322,
+        "end_time": 326
+    },
+    {
+        "word": "informed",
+        "start_time": 327,
+        "end_time": 335
+    },
+    {
+        "word": "decisions",
+        "start_time": 336,
+        "end_time": 345
+    },
+    {
+        "word": "based",
+        "start_time": 346,
+        "end_time": 351
+    },
+    {
+        "word": "on",
+        "start_time": 352,
+        "end_time": 354
+    },
+    {
+        "word": "real",
+        "start_time": 355,
+        "end_time": 359
+    },
+    {
+        "word": "time",
+        "start_time": 360,
+        "end_time": 364
+    },
+    {
+        "word": "feedback",
+        "start_time": 365,
+        "end_time": 373
+    }
+]

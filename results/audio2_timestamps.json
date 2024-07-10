@@ -1,0 +1,122 @@
+[
+    {
+        "word": "Whisper",
+        "start_time": 0,
+        "end_time": 7
+    },
+    {
+        "word": "Large",
+        "start_time": 8,
+        "end_time": 13
+    },
+    {
+        "word": "V3",
+        "start_time": 14,
+        "end_time": 16
+    },
+    {
+        "word": "is",
+        "start_time": 17,
+        "end_time": 19
+    },
+    {
+        "word": "an",
+        "start_time": 20,
+        "end_time": 22
+    },
+    {
+        "word": "advanced",
+        "start_time": 23,
+        "end_time": 31
+    },
+    {
+        "word": "speech",
+        "start_time": 32,
+        "end_time": 38
+    },
+    {
+        "word": "recognition",
+        "start_time": 39,
+        "end_time": 50
+    },
+    {
+        "word": "model",
+        "start_time": 51,
+        "end_time": 56
+    },
+    {
+        "word": "by",
+        "start_time": 57,
+        "end_time": 59
+    },
+    {
+        "word": "OpenAI",
+        "start_time": 60,
+        "end_time": 66
+    },
+    {
+        "word": "It",
+        "start_time": 67,
+        "end_time": 69
+    },
+    {
+        "word": "excels",
+        "start_time": 70,
+        "end_time": 76
+    },
+    {
+        "word": "in",
+        "start_time": 77,
+        "end_time": 79
+    },
+    {
+        "word": "transcribing",
+        "start_time": 80,
+        "end_time": 92
+    },
+    {
+        "word": "audio",
+        "start_time": 93,
+        "end_time": 98
+    },
+    {
+        "word": "with",
+        "start_time": 99,
+        "end_time": 103
+    },
+    {
+        "word": "high",
+        "start_time": 104,
+        "end_time": 108
+    },
+    {
+        "word": "accuracy",
+        "start_time": 109,
+        "end_time": 117
+    },
+    {
+        "word": "supporting",
+        "start_time": 118,
+        "end_time": 128
+    },
+    {
+        "word": "multiple",
+        "start_time": 129,
+        "end_time": 137
+    },
+    {
+        "word": "languages",
+        "start_time": 138,
+        "end_time": 147
+    },
+    {
+        "word": "and",
+        "start_time": 148,
+        "end_time": 151
+    },
+    {
+        "word": "accents",
+        "start_time": 152,
+        "end_time": 159
+    }
+]

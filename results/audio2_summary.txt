@@ -1,0 +1,1 @@
+Whisper Large V3 excels in transcribing audio with high accuracy. it supports multiple languages, accents and multiple languages.

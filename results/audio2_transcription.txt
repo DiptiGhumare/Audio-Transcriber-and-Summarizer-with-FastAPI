@@ -1,0 +1,1 @@
+ Whisper Large V3 is an advanced speech recognition model by OpenAI. It excels in transcribing audio with high accuracy, supporting multiple languages and accents.
