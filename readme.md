@@ -57,33 +57,48 @@ Pydub
 Install the necessary packages using pip:
 
 pip install -r requirements.txt
+
 pip install fastapi uvicorn pydantic transformers torch sentencepiece pydub
 
 ## Setup
 1.Run the FastAPI server:
+
 python -m venv .venv
+
 source .venv/bin/activate  # On Windows use `.venv\Scripts\activate`
+
 uvicorn main:app --reload
 
 2.Initialize a Git repository and commit your project files
+
 git init
+
 git add .
+
 git commit -m "Initial commit"
 
 Create a new repository on GitHub, then push your local repository:
+
 git remote add origin <repository_url>
+
 git push -u origin master
 
 ## Endpoints
 Root Endpoint:
+
 URL: /
+
 Method: GET
+
 Response: A welcome message.
 
 Transcription Endpoint:
 URL: /transcribe
+
 Method: POST
+
 Request: An audio file.
+
 Response: A JSON object containing the transcription, summary, timestamps, and the audio file in base64 format.
 
 ## Directory Structure
